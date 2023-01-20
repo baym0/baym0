@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @baym0
-- 👀 I’m interested in back end and front end
-- 🌱 I’m currently learning back end
+- 👀 I’m interested front end
+- 🌱 I’m currently learning front end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mustafaerciyas@mail.com
 
